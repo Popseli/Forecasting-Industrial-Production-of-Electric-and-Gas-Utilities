@@ -20,4 +20,9 @@ To accomplish the objective of the project, the following tasks were performed:
 * Statsmodels
 * Forecasting methods compared: SARIMA, Prophet, LSTM and 1D CNN
 ## Forecasting Result Summary
-
+SARIMA was observed to outperform other models by achieving MAPE of 2.44 %, MAE of 2.479 and RMSE of 3.079.
+![Original data presentation](Proj_images/ROC%20Results.png)
+![Visual of SARIMA forecasting performance ](Proj_images/ROC%20Results.png)
+![Visual of Prophet forecasting performance ](Proj_images/ROC%20Results.png)
+![Visual of LSTM forecasting performance ](Proj_images/ROC%20Results.png)
+![Visual of 1D CNN forecasting performance ](Proj_images/ROC%20Results.png)
