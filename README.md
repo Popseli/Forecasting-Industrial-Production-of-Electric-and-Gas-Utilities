@@ -21,10 +21,12 @@ To accomplish the objective of the project, the following tasks were performed:
 * Forecasting methods compared: SARIMA, Prophet, LSTM and 1D CNN
 ## Forecasting Result Summary
 SARIMA was observed to outperform other models by achieving the lowest prediction errors with MAPE of 2.44 %, MAE of 2.479 and RMSE of 3.079.
+
 ![Original data presentation](Images/Production%20Output%201939%20-%202022.png)
 ![Visual of SARIMA forecasting performance](Images/SARIMA%20performance.png)
+![SARIMA forecasting of 3 year production of utilities](Images/SARIMA%203%20year%20prediction.png)
 ![Visual of Prophet forecasting performance](Images/Prophet%20performance.png)
 ![Visual of LSTM forecasting performance](Images/LSTM%20performance.png)
 ![Visual of 1D CNN forecasting performance](Images/1D%20CNN%20performance.png)
-![SARIMA forecasting of 3 year production of utilities](Images/SARIMA%203%20year%20prediction.png)
+
 
