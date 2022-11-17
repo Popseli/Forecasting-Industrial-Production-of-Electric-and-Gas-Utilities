@@ -26,5 +26,5 @@ SARIMA was observed to outperform other models by achieving the lowest predictio
 ![Visual of Prophet forecasting performance](Images/Prophet%20performance.png)
 ![Visual of LSTM forecasting performance](Images/LSTM%20performance.png)
 ![Visual of 1D CNN forecasting performance](Images/1D%20CNN%20performance.png)
-![SARIMA forecasting of 3 year production of utilities](Images/1D%20CNN%20performance.png)
+![SARIMA forecasting of 3 year production of utilities](Images/SARIMA%203%20year%20prediction.png)
 
