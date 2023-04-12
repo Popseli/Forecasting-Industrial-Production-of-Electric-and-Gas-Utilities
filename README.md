@@ -28,7 +28,7 @@ Below is the graphical presentation of the time series analysed in this project.
 ## Forecasting Result Summary
 Below are the graphical presentations of the prediction performances of SARIMA and Prophet. It can be seen that SARIMA has outperformed Prophet by achieving the lowest prediction errors with MAPE of 2.44 %, MAE of 2.479 and RMSE of 3.079.
 
-![Visual of SARIMA forecasting performance](https://github.com/Popseli/Forecasting-Industrial-Production-of-Electric-and-Gas-Utilities/blob/main/Images/SARIMA%20performance.png)
+![Visual of SARIMA forecasting performance](https://github.com/Popseli/Forecasting-Industrial-Production-of-Electric-and-Gas-Utilities/blob/main/Images/SARIMA%20performance.png)  
 ![Visual of Prophet forecasting performance](https://github.com/Popseli/Forecasting-Industrial-Production-of-Electric-and-Gas-Utilities/blob/main/Images/Prophet%20performance.png)
 
 Below is the plot of 3 year predictions of the utilities production by SARIMA.
