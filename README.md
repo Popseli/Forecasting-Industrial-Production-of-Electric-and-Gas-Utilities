@@ -31,7 +31,7 @@ Below are the graphical presentations of the prediction performances of SARIMA a
 ![Visual of SARIMA forecasting performance](https://github.com/Popseli/Forecasting-Industrial-Production-of-Electric-and-Gas-Utilities/blob/main/Images/SARIMA%20performance.png)
 ![Visual of Prophet forecasting performance](https://github.com/Popseli/Forecasting-Industrial-Production-of-Electric-and-Gas-Utilities/blob/main/Images/Prophet%20performance.png)
 
-Below is the plot of 3 year predictions of the utilities production.
+Below is the plot of 3 year predictions of the utilities production by SARIMA.
 
 ![SARIMA forecasting of 3 year production of utilities](https://github.com/Popseli/Forecasting-Industrial-Production-of-Electric-and-Gas-Utilities/blob/main/Images/SARIMA%203%20year%20prediction.png)
 
